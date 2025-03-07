@@ -1,4 +1,4 @@
 # 1st-demo
 This is my first Git Repository
 <br>
-Auhor - Tosif Mansoori
+Auhor - Tosif Raza Mansoori
